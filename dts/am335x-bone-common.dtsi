@@ -26,9 +26,9 @@
 		compatible = "gpio-leds";
 
 		modem_reset {
-            label = "modem_reset";
-            gpios = <&gpio1 18 GPIO_ACTIVE_HIGH>;
-            default-state = "on";
+			label = "modem_reset";
+			gpios = <&gpio1 18 GPIO_ACTIVE_HIGH>;
+			default-state = "on";
 		};
 
 		wisun_reset {
