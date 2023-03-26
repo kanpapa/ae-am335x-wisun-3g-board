@@ -1,7 +1,7 @@
 diff --git a/am335x-bone-common.dtsi.orig b/am335x-bone-common.dtsi
-index 89b4cf2..4dd98f0 100644
---- a/arch/arm/boot/dts/am335x-bone-common.dtsi
-+++ b/arch/arm/boot/dts/am335x-bone-common.dtsi
+index 89b4cf2..f18b522 100644
+--- a/am335x-bone-common.dtsi.orig
++++ b/am335x-bone-common.dtsi
 @@ -25,31 +25,39 @@
  
  		compatible = "gpio-leds";
